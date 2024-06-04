@@ -62,7 +62,3 @@
       src="https://img.shields.io/badge/wchorong@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-<div align="center">
-  ![Wchorong's GitHub stats](https://github-readme-stats-4t3s.vercel.app/api?username=wchorong&show_icons=true&theme=transparent)
-</div>
