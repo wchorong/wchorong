@@ -64,5 +64,5 @@
 </div>
 
 <div align="center">
-  ![Wchorong's GitHub stats](https://github-readme-stats-iota-six-28.vercel.app/api?username=wchorong&show_icons=true&theme=transparent)
+  ![Wchorong's GitHub stats](https://github-readme-stats-q3mnp63j5-wchorongs-projects.vercel.app/api?username=wchorong&show_icons=true&theme=transparent)
 </div>
