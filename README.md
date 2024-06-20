@@ -62,3 +62,4 @@
       src="https://img.shields.io/badge/wchorong@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wchorong)](https://github.com/anuraghazra/github-readme-stats)
