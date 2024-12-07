@@ -62,9 +62,3 @@
       src="https://img.shields.io/badge/wchorong@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/wchorong">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wchorong&include_all_commits=true&count_private=true" />
-  </a>
-</p>
